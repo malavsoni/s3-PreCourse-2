@@ -1,7 +1,7 @@
 class BinarySearch {
      // Returns index of x if it is present in arr[l.. r], else return -1
     function binarySearch(arr, l, r, x) {
-​
+
     }
 }
 // Driver method to test above
